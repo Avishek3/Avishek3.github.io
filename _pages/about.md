@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I received my Ph.D. from the Department of Computer Science and Engineering at the Ohio State University, Columbus, Ohio, USA in 2022. Subsequently, I joined the University of California San Diego as a postdoctoral researcher.
+I received my Ph.D. from the Department of Computer Science and Engineering at the Ohio State University, Columbus, Ohio, USA in 2023. Subsequently, I joined Nokia Bell Labs as a Research Scientist. I specialized is in Wireless Communication & Sensing. His research focuses on developing novel systems and software that can enrich the reliability, throughput and diversity of wireless communication and introduce novel sensing systems.
+
+
 I design trustworthy, accessible, and sustainable wireless sensing systems for health, privacy, safety, and sustainability.
 
 My research is driven by my curiosity to explore science and technology and solve challenging technical and societal problems in real-world settings. I work across machine learning, signal processing, hardware, and optimization to design and build intelligent systems for real-world applications. I made multiple inventions including safe human-vehicles-pavement interaction, accessible health computing tools for healthy diapering and dysphagia, human behavior understanding like stalking vehicle detection and privacy-preserving human activity recognition, sustainable infrastructure such as rearchitected MIMO-PLC for Internet connectivity and wall crack detection, and trustworthy IoT such as location privacy protection for WiFi users and ubiquitous IoT device detection, fingerprinting, and state probing
