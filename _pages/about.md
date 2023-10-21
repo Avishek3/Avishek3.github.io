@@ -15,11 +15,11 @@ My research interest spans on wireless sensing, wireless communication and signa
 
 My research is driven by my curiosity to solve real-world problems with off-the-shelf systems. I work across signal processing, machine learning, hardware, and optimization to design and build intelligent systems for real-world applications. I made multiple inventions in the following domains
 
-- Wireless Sensing [ **2 publications, 1 patent filed, 1 news article** ]
-- Wireless Communication [ **2 publications, 1 Best Paper Runners Up** ]
-- Physics-based Machine Learning [ **1 publication** ]
-- Edge System for IoT [ **1 publication** ]
-- Portable D2D Communication [ **Award** ]
+- <ins>Wireless Sensing</ins> [ **2 publications, 1 patent filed, 1 news article** ]
+- <ins>Wireless Communication</ins> [ **2 publications, 1 Best Paper Runners Up** ]
+- <ins>Physics-based Machine Learning</ins> [ **1 publication** ]
+- <ins>Edge System for IoT</ins> [ **1 publication** ]
+- <ins>Portable D2D Communication</ins> [ **Award** ]
 
 
 
