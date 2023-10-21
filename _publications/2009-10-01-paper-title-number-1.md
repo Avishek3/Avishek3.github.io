@@ -9,7 +9,7 @@ paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 
 ---
 This paper is about the number 1. The number 2 is left for future work.
-<img src="./images/bio_photo.jpg" style="display: block; margin: auto;" />
+<img src="RMPTEMP.png" style="display: block; margin: auto;" />
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
