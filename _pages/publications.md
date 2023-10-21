@@ -10,9 +10,9 @@ author_profile: true
 <b>Avishek Banerjee</b>, Lu Chen, Kannan Srinivasan <br>
 <b>COMSNETS 2023</b> <i>15th International Conference on COMmunication Systems & NETworkS</i>. <br>
 
-<b>[PROWESS: An Open Testbed for Programmable Wireless Edge Systems](https://ieeexplore.ieee.org/abstract/document/10041373)</b><br>
+<b>[PROWESS: An Open Testbed for Programmable Wireless Edge Systems](https://dl.acm.org/doi/abs/10.1145/3491418.3530759)</b><br>
 Jayson Boubin, <b>Avishek Banerjee</b>, Jihoon Yun, Haiyang Qi, Yuting Fang, Steve Chang, Kannan Srinivasan, Rajiv Ramnath, Anish Arora<br>
-<b>COMSNETS 2023</b> <i>15th International Conference on COMmunication Systems & NETworkS</i>. <br>
+<b>PEARC '22</b> <i>Practice and Experience in Advanced Research Computing</i>. <br>
 
 <b>[WiNE: Monitoring Microwave Oven Leakage to Estimate Food Nutrients and Calorie](https://dl.acm.org/doi/abs/10.1145/3550313)</b><br>
 <b>Avishek Banerjee</b>, Kannan Srinivasan <br>
@@ -22,41 +22,22 @@ Jayson Boubin, <b>Avishek Banerjee</b>, Jihoon Yun, Haiyang Qi, Yuting Fang, Ste
 <b>Avishek Banerjee</b>, Kannan Srinivasan <br>
 <b>IMWUT 2021</b> <i>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, Volume 5, Issue 4</i>. <br>
 
-
-
-
-
 ## Work in Progress
-<b>[xFraud: Explainable Fraud Transaction Detection on Heterogeneous Graphs](https://arxiv.org/pdf/2011.12193.pdf)</b><br>
-Co-author, under review.<br>
+<b>[Cross Band Channel Prediction]</b><br>
+under review.<br>
 
-<b>[MicroRec: Accelerating Deep Recommendation Systems to Microseconds by Hardware and Data Structure Solutions](https://arxiv.org/abs/2010.05894)</b><br>
-Co-author, under review.<br>
- 
-<b>[DeGNN: Characterizing and Improving Graph Neural Networks with Graph Decomposition]()</b><br>
-Co-author, under review.<br>
-
-<b>[R2D2: Reuse & Reduce via Dynamic Weight Diffusion for Training Efficient NLP Models]()</b><br>
-Co-author, under review.<br>
-
-## Book Chapters
-
-<b>[Deep Neural Networks based Recommender Systems](), 2020, to appear</b><br>
-<b>Shuai Zhang</b>, Yi Tay, Lina Yao, Aixin Sun, Ce Zhang. <br>
-<i>Book Title: [the 3rd edition of the recommender systems handbook](https://link.springer.com/book/10.1007/978-0-387-85820-3). </i> <br>
-<i>Book Authors: Francesco Ricci, Lior Rokach, Bracha Shapira, Paul B. Kantor. </i> <br>
-<i> Publisher: Springer. </i>
-
-<b>[Recommender Systems](https://d2l.ai/chapter_recommender-systems/index.html), 2019</b><br>
-<b>Shuai Zhang</b>, Aston Zhang, Yi Tay. <br>
-<i>Book Title: [Dive into Deep Learning](https://d2l.ai/). </i> <br>
-<i>Book Authors: Aston Zhang, Zack C. Lipton, Mu Li, Alex J. Smola. </i>
+<b>[MU-MIMO Eavesdropping]</b><br>
+under review.<br>
 
 
-<b>[Deep Neural Networks meet Recommender Systems](https://digital-library.theiet.org/content/books/10.1049/pbpc035g_ch2), 2019</b><br>
-<b>Shuai Zhang</b>, Lina Yao, Aixin Sun, Guibing Guo, Xiwei Xu, Liming Zhu. <br>
-<i>Book Title: Big Data Recommender Systems: Recent Trends and Advances. </i> <br>
-<i>Book Editors: Osman Khalid, Samee U. Khan,  Albert Y. Zomaya . </i> <br>
-<i> Publisher: Institution of Engineering and Technology. </i>
+## Patent
+<b>[Monitoring Microwave Oven Leakage to Estimate Food Temperature and Food Composition]</b><br>
+<b>Avishek Banerjee</b>, Kannan Srinivasan <br>
+Provisional.<br>
+
+## News Article
+<b>[Nutrient-measuring device could make microwaves that count calories](https://www.newscientist.com/article/2341252-nutrient-measuring-device-could-make-microwaves-that-count-calories/)</b><br>
+Interviewed and research covered by [New Scientist Magazine] (https://www.newscientist.com)
+
 
 
