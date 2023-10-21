@@ -1,6 +1,6 @@
 ---
 title: "RFTemp: Monitoring Microwave Oven Leakage to Estimate Food Temperature"
-author: 'Avishek Banerjee, Kannan Srinivasan'
+author: "Avishek Banerjee, Kannan Srinivasan"
 collection: publications
 permalink: /publication/RFTemp
 excerpt: 
