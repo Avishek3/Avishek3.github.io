@@ -15,11 +15,19 @@ My research interest spans on wireless sensing, wireless communication and signa
 
 My research is driven by my curiosity to solve real-world problems with off-the-shelf systems. I work across signal processing, machine learning, hardware, and optimization to design and build intelligent systems for real-world applications. I made multiple inventions in the following domains
 
-- <ins>Wireless Sensing</ins> [ **2 publications, 1 patent filed, 1 news article** ]
-- <ins>Wireless Communication</ins> [ **2 publications, 1 Best Paper Runners Up** ]
-- <ins>Physics-based Machine Learning</ins> [ **1 publication** ]
+- <ins>Wireless Sensing</ins> [ **2 publications, 1 patent filed, 1 news article**, <ins> 2 under progress </ins> ]
+- <ins>Wireless Communication</ins> [ **2 publications, 1 Best Paper Runners Up**, <ins> 1 under progress </ins> ]
+- <ins>Physics-based Machine Learning</ins> [ **1 publication** , <ins> 1 under progress </ins>]
 - <ins>Edge System for IoT</ins> [ **1 publication** ]
 - <ins>Portable D2D Communication</ins> [ **Award** ]
+
+## Honors and Activities
+
+- 2023: Mentored Summer Intern<br>
+- 2023: <b>Best All-round paper 1st Runners Up</b> [COMSNETS 2023](https://www.comsnets.org/)<br>
+- 2022: Interviewed and research covered by [New Scientist Magazine](https://www.newscientist.com/)<br>
+- 2020: <b>Quinlan – Graduate Teaching Award</b><br>
+- 2017: Qualified for the prototype round of [WINS Challenges](https://wirelesschallenge.mozilla.org/) <br>
 
 
 
