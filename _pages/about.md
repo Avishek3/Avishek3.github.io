@@ -10,10 +10,34 @@ redirect_from:
 
 I received my Ph.D. from the Department of Computer Science and Engineering at the Ohio State University, Columbus, Ohio, USA in 2023. Subsequently, I joined as a Research Scientist in the Decentralized Systems Research group at [Nokia Bell Labs](https://www.bell-labs.com/about/researcher-profiles/avishek-1-banerjee/) in Murray Hill, NJ.
 
-Avishek's research interest spans on wireless sensing, wireless communication and signal processing with the focus on developing innovative sensing and communication systems and physics-based machine learning models to improve wireless applications.
+My research interest spans on wireless sensing, wireless communication and signal processing with the focus on developing innovative sensing and communication systems and physics-based machine learning models to improve wireless applications.
 
 
-My research is driven by my curiosity to explore science and technology and solve challenging technical and societal problems in real-world settings. I work across machine learning, signal processing, hardware, and optimization to design and build intelligent systems for real-world applications. I made multiple inventions including safe human-vehicles-pavement interaction, accessible health computing tools for healthy diapering and dysphagia, human behavior understanding like stalking vehicle detection and privacy-preserving human activity recognition, sustainable infrastructure such as rearchitected MIMO-PLC for Internet connectivity and wall crack detection, and trustworthy IoT such as location privacy protection for WiFi users and ubiquitous IoT device detection, fingerprinting, and state probing
+My research is driven by my curiosity to solve real-world problems with off-the-shelf systems. I work across signal processing, machine learning, hardware, and optimization to design and build intelligent systems for real-world applications. I made multiple inventions in the following domains
+
+## Wireless Sensing
+
+- **Monitoring Microwave Oven Leakage to Estimate Food Temperature**
+- **Monitoring Microwave Oven Leakage to Estimate Food Nutrients**
+
+## Wireless Communication
+
+- **Developing in-band Full Duplex Relay Cluster**
+
+## Machine Learning
+
+- **Cross-band wireless channel prediction**
+
+## Edge Computing
+
+- **POWWOW osuwireless overlay with Edge Computing and Core Computing support**
+
+## Portable D2D Communication
+
+- **PODNETS: An Android application for emergency messaging using multi-hop WiFi-Direct**
+
+
+safe human-vehicles-pavement interaction, accessible health computing tools for healthy diapering and dysphagia, human behavior understanding like stalking vehicle detection and privacy-preserving human activity recognition, sustainable infrastructure such as rearchitected MIMO-PLC for Internet connectivity and wall crack detection, and trustworthy IoT such as location privacy protection for WiFi users and ubiquitous IoT device detection, fingerprinting, and state probing
 
 
 
