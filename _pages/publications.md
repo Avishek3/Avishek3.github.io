@@ -9,6 +9,7 @@ author_profile: true
 <b>[ReFleX: Enabling Full Duplex Relay Cluster](https://ieeexplore.ieee.org/abstract/document/10041373)</b><br>
 <b>Avishek Banerjee</b>, Lu Chen, Kannan Srinivasan <br>
 <b>COMSNETS 2023</b> <i>15th International Conference on COMmunication Systems & NETworkS</i>. <br>
+<b> Best Paper Runner's Up </b>
 
 <b>[PROWESS: An Open Testbed for Programmable Wireless Edge Systems](https://dl.acm.org/doi/abs/10.1145/3491418.3530759)</b><br>
 Jayson Boubin, <b>Avishek Banerjee</b>, Jihoon Yun, Haiyang Qi, Yuting Fang, Steve Chang, Kannan Srinivasan, Rajiv Ramnath, Anish Arora<br>
