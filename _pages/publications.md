@@ -3,7 +3,12 @@ title: "Selected Publications"
 permalink: /publications/
 author_profile: true
 ---
-[(Google Scholar Profile)](https://scholar.google.com.au/citations?user=PPjdxlcAAAAJ&hl=en) [(Full List at DBLP)](https://dblp.uni-trier.de/pers/hd/z/Zhang_0007:Shuai)
+[(Google Scholar Profile)](https://scholar.google.com/citations?user=Z5co2oAAAAAJ&hl=en) 
+
+## Conference Papers
+<b>[RFTemp: Monitoring Microwave Oven Leakage to Estimate Food Temperature](https://dl.acm.org/doi/10.1145/3494967)</b><br>
+<b>Avishek Banerjee</b>, Kannan Srinivasan <br>
+<b>IMWUT 2021</b> <i>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, Volume 5, Issue 4</i>. <br>
 
 ## Work in Progress
 <b>[xFraud: Explainable Fraud Transaction Detection on Heterogeneous Graphs](https://arxiv.org/pdf/2011.12193.pdf)</b><br>
@@ -38,7 +43,4 @@ Co-author, under review.<br>
 <i>Book Editors: Osman Khalid, Samee U. Khan,  Albert Y. Zomaya . </i> <br>
 <i> Publisher: Institution of Engineering and Technology. </i>
 
-## Conference Papers
-<b>[Learning User Representations with Hypercuboids for Recommender Systems](https://arxiv.org/abs/2011.05742)</b><br>
-<b>Shuai Zhang</b>, Huoyu Liu, Aston Zhang, Yue Hu, Ce Zhang, Yumeng Li, Tanchao Zhu, Shaojian He and Wenwu Ou. <br>
-<b>WSDM 2021</b> [core A*]. <i>The 14th ACM International Conference on Web Search and Data Mining</i>. <br>
+
