@@ -4,9 +4,9 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Conference Talks
-<b>[ReFleX: Enabling Full Duplex Relay Cluster](https://ieeexplore.ieee.org/abstract/document/10041373)</b><br>
-Bengaluru, India <br>
+## Graduate Teaching Assistant
+The Ohio State University, USA <br>
+
 <b>COMSNETS 2023</b> <i>15th International Conference on COMmunication Systems & NETworkS</i>. <br>
 <b> Best Paper Runner's Up </b>
 
@@ -20,5 +20,5 @@ Georgia Tech University, USA <br>
 
 ## Invited Talks
 <b>[Topic : Estimating Food Temperature and Nutrients by Monitoring Microwave Oven Leakage](https://docs.google.com/presentation/d/1pKP7tMi0lpTXe3Uii3VnsCn9zP-yaIMHE8OVzdzpVoY/edit?usp=sharing)</b><br>
-The Ohio State University, USA <br>
+
 
