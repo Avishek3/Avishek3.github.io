@@ -3,7 +3,7 @@ title: "RFTemp: Monitoring Microwave Oven Leakage to Estimate Food Temperature"
 collection: publications
 permalink: /publication/RFTemp
 excerpt: 
-date: 2021
+date: 2009-10-01
 venue: 'IMWUT'
 paperurl: 'https://dl.acm.org/doi/pdf/10.1145/3494967'
 citation: 
