@@ -23,15 +23,15 @@ Jayson Boubin, <b>Avishek Banerjee</b>, Jihoon Yun, Haiyang Qi, Yuting Fang, Ste
 <b>IMWUT 2021</b> <i>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, Volume 5, Issue 4</i>. <br>
 
 ## Work in Progress
-<b>[Cross Band Channel Prediction]</b><br>
-under review.<br>
+<b>Cross Band Channel Prediction</b><br>
+Under review.<br>
 
-<b>[MU-MIMO Eavesdropping]</b><br>
-under review.<br>
+<b>MU-MIMO Eavesdropping</b><br>
+Under review.<br>
 
 
 ## Patent
-<b>[Monitoring Microwave Oven Leakage to Estimate Food Temperature and Food Composition]</b><br>
+<b>Monitoring Microwave Oven Leakage to Estimate Food Temperature and Food Composition</b><br>
 <b>Avishek Banerjee</b>, Kannan Srinivasan <br>
 Provisional.<br>
 
