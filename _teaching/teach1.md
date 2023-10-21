@@ -1,7 +1,6 @@
 ---
 title: "Teaching"
 permalink: /teaching/
-date : 2017-08-01
 author_profile: true
 ---
 
