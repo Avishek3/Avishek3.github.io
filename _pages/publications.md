@@ -38,7 +38,7 @@ Provisional.<br>
 
 ## News Article
 <b>[Nutrient-measuring device could make microwaves that count calories](https://www.newscientist.com/article/2341252-nutrient-measuring-device-could-make-microwaves-that-count-calories/)</b><br>
-Interviewed and research covered by [New Scientist Magazine] (https://www.newscientist.com)
+Interviewed and research covered by [New Scientist Magazine](https://www.newscientist.com)
 
 
 
