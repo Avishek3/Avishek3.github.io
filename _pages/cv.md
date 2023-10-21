@@ -4,7 +4,7 @@ title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /resume
+  - files/Avishek_Resume_Research.pdf
 ---
 
 {% include base_path %}
