@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Avishek Banerjee"
   avatar           : "bio_photo.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Research Scientist"
   location         : "NJ,USA"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  employer         : "Nokia Bell Labs"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=Z5co2oAAAAAJ&hl=en"
+  email            : "avishek.1.banerjee@nokia-bell-labs.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
