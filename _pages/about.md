@@ -15,20 +15,20 @@ My research interest spans on wireless sensing, wireless communication and signa
 
 My research is driven by my curiosity to solve real-world problems with off-the-shelf systems. I work across signal processing, machine learning, hardware, and optimization to design and build intelligent systems for real-world applications. I made multiple inventions in the following domains
 
- Wireless Sensing
+ **Wireless Sensing**
 - Monitoring Microwave Oven Leakage to Estimate Food Temperature
 - Monitoring Microwave Oven Leakage to Estimate Food Nutrients
 
- Wireless Communication
+ **Wireless Communication**
 - Developing in-band Full Duplex Relay Cluster
 
- Machine Learning
+ **Machine Learning**
 - Cross-band wireless channel prediction
 
- Edge Computing
+ **Edge Computing**
 - POWWOW osuwireless overlay with Edge Computing and Core Computing support
 
- Portable D2D Communication
+ **Portable D2D Communication**
 - PODNETS: An Android application for emergency messaging using multi-hop WiFi-Direct
 
 
