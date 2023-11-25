@@ -6,6 +6,12 @@ author_profile: true
 [(Google Scholar Profile)](https://scholar.google.com/citations?user=Z5co2oAAAAAJ&hl=en) 
 
 ## Conference Papers
+<b>[HORCRUX: Accurate Cross Band Channel Prediction](https://www.sigmobile.org/mobicom/2024/)</b><br>
+<b>Avishek Banerjee</b>, Xingya Zhao, Vishnu Chhabra, Kannan Srinivasan, Srinivasan Parthasarathy <br>
+<b>MobiCom 2024</b> <i>30th Annual International Conference On Mobile Computing And Networking</i>. <br>
+<b> Accepted </b>
+
+
 <b>[ReFleX: Enabling Full Duplex Relay Cluster](https://ieeexplore.ieee.org/abstract/document/10041373)</b><br>
 <b>Avishek Banerjee</b>, Lu Chen, Kannan Srinivasan <br>
 <b>COMSNETS 2023</b> <i>15th International Conference on COMmunication Systems & NETworkS</i>. <br>
@@ -24,8 +30,6 @@ Jayson Boubin, <b>Avishek Banerjee</b>, Jihoon Yun, Haiyang Qi, Yuting Fang, Ste
 <b>IMWUT 2021</b> <i>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, Volume 5, Issue 4</i>. <br>
 
 ## Work in Progress
-<b>Cross Band Channel Prediction</b><br>
-Under review.<br>
 
 <b>MU-MIMO Eavesdropping</b><br>
 Under review.<br>
