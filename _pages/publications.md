@@ -40,6 +40,10 @@ Under review.<br>
 <b>Avishek Banerjee</b>, Kannan Srinivasan <br>
 Provisional.<br>
 
+<b>A Method for Accurate Cross Band Channel Prediction</b><br>
+<b>Avishek Banerjee</b>, Srinivasan Parthasarathy, Kannan Srinivasan <br>
+Provisional.<br>
+
 ## News Article
 <b>[Nutrient-measuring device could make microwaves that count calories](https://www.newscientist.com/article/2341252-nutrient-measuring-device-could-make-microwaves-that-count-calories/)</b><br>
 Interviewed and research covered by [New Scientist Magazine](https://www.newscientist.com)
