@@ -24,7 +24,7 @@ Feel free to check out my [CV](https://avishek3.github.io/cv/) to learn more abo
 - <ins>Portable D2D Communication</ins> [ **Award** ]
 
 ## Services
-- 2024: Reviewer IEEE LANMAN 2024
+- Reviewer IEEE LANMAN 2024
 
 ## Honors and Activities
 
