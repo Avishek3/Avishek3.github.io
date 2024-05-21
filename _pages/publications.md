@@ -11,6 +11,9 @@ author_profile: true
 <b>MobiCom 2024</b> <i>30th Annual International Conference On Mobile Computing And Networking</i>. <br>
 <b> Accepted </b>
 
+<b>[Fewer Demands, More Chances: Active Eavesdropping in MU-MIMO Systems](https://dl.acm.org/doi/10.1145/3643833.3656136)</b><br>
+Xingya Zhao, Anwesha Roy, <b>Avishek Banerjee</b>, Kannan Srinivasan <br>
+<b>WiSec 2024</b> <i>Proceedings of the 17th ACM Conference on Security and Privacy in Wireless and Mobile Networks</i>. <br>
 
 <b>[ReFleX: Enabling Full Duplex Relay Cluster](https://ieeexplore.ieee.org/abstract/document/10041373)</b><br>
 <b>Avishek Banerjee</b>, Lu Chen, Kannan Srinivasan <br>
