@@ -23,8 +23,12 @@ Feel free to check out my [CV](https://avishek3.github.io/cv/) to learn more abo
 - <ins>Edge System for IoT</ins> [ **1 publication** ]
 - <ins>Portable D2D Communication</ins> [ **Award** ]
 
+## Services
+- 2024: Reviewer IEEE LANMAN 2024
+
 ## Honors and Activities
 
+- 2024: Mentored [LockGuard](https://www.homeguard.biz/) (winner of UPitchNJ)<br>
 - 2023: Mentored Summer Intern<br>
 - 2023: <b>Best All-round paper 1st Runners Up</b> [COMSNETS 2023](https://www.comsnets.org/)<br>
 - 2022: Interviewed and research covered by [New Scientist Magazine](https://www.newscientist.com/)<br>
