@@ -33,7 +33,7 @@ Jayson Boubin, <b>Avishek Banerjee</b>, Jihoon Yun, Haiyang Qi, Yuting Fang, Ste
 <b>IMWUT 2021</b> <i>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, Volume 5, Issue 4</i>. <br>
 
 
-## Patent
+## Patents
 <b>Monitoring Microwave Oven Leakage to Estimate Food Temperature and Food Composition</b><br>
 <b>Avishek Banerjee</b>, Kannan Srinivasan <br>
 Provisional.<br>
