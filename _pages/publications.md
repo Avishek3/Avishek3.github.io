@@ -32,11 +32,6 @@ Jayson Boubin, <b>Avishek Banerjee</b>, Jihoon Yun, Haiyang Qi, Yuting Fang, Ste
 <b>Avishek Banerjee</b>, Kannan Srinivasan <br>
 <b>IMWUT 2021</b> <i>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, Volume 5, Issue 4</i>. <br>
 
-## Work in Progress
-
-<b>MU-MIMO Eavesdropping</b><br>
-Under review.<br>
-
 
 ## Patent
 <b>Monitoring Microwave Oven Leakage to Estimate Food Temperature and Food Composition</b><br>
@@ -46,6 +41,14 @@ Provisional.<br>
 <b>A Method for Accurate Cross Band Channel Prediction</b><br>
 <b>Avishek Banerjee</b>, Srinivasan Parthasarathy, Kannan Srinivasan <br>
 Provisional.<br>
+
+<b>Trustless Subscriber Reidentification and SIM Swap Prevention Using Biometrics and Blockchains.</b><br>
+Novak Boskov, Akshay Jajoo, <b>Avishek Banerjee</b>, Nirupama Ravi. <br>
+Patent filed <br>
+
+<b>Opti-Vision: A smart glass system for passive testing to determine a profile for a user’s light adaptivity to personally tune display brightness settings. </b><br>
+<b>Avishek Banerjee</b>, Marja Pauliina Salmimaa. <br>
+Patent filed <br>
 
 ## News Article
 <b>[Nutrient-measuring device could make microwaves that count calories](https://www.newscientist.com/article/2341252-nutrient-measuring-device-could-make-microwaves-that-count-calories/)</b><br>
