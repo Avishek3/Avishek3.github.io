@@ -7,8 +7,9 @@ author_profile: true
 ## Conference Talks
 <b>[HORCRUX: Accurate Cross Band Channel Prediction](https://dl.acm.org/doi/abs/10.1145/3636534.3649343)</b><br>
 Washington DC, USA <br>
-<b>MobiCom 2024 2023</b> <i>Proceedings of the 30th Annual International Conference on Mobile Computing and Networking
+<b>MobiCom 2024</b> <i>Proceedings of the 30th Annual International Conference on Mobile Computing and Networking
 </i>. <br>
+<b> Upcoming </b>
 
 <b>[ReFleX: Enabling Full Duplex Relay Cluster](https://ieeexplore.ieee.org/abstract/document/10041373)</b><br>
 Bengaluru, India <br>
