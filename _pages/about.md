@@ -18,7 +18,7 @@ My research is driven by my curiosity to solve real-world problems with off-the-
 Feel free to check out my [CV](https://avishek3.github.io/cv/) to learn more about me.
 
 - <ins>Wireless Sensing</ins> [ **2 publications (IMWUT/UbiComp), 2 patent filed, 1 news article**, <ins> 3 under progress </ins> ]
-- <ins>Wireless Communication</ins> [ **3 publications (MobiCom,WiSec,COMSNETS), 1 Best Paper Runners Up**, <ins> 1 under progress </ins> ]
+- <ins>Wireless Communication</ins> [ **3 publications (MobiCom, WiSec, COMSNETS), 1 patent filed, 1 Best Paper Runners Up**, <ins> 1 under progress </ins> ]
 - <ins>Physics-based Machine Learning</ins> [ **1 publication (MobiCom)** , <ins> 1 under progress </ins>]
 - <ins>Edge System for IoT</ins> [ **1 publication (ACM PEARC)** ]
 - <ins>Portable D2D Communication</ins> [ **Award** ]
