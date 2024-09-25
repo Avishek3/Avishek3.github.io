@@ -26,11 +26,11 @@ Jayson Boubin, <b>Avishek Banerjee</b>, Jihoon Yun, Haiyang Qi, Yuting Fang, Ste
 
 <b>[WiNE: Monitoring Microwave Oven Leakage to Estimate Food Nutrients and Calorie](https://dl.acm.org/doi/abs/10.1145/3550313)</b><br>
 <b>Avishek Banerjee</b>, Kannan Srinivasan <br>
-<b>IMWUT 2022</b> <i>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, Volume 6, Issue 3</i>. <br>
+<b>IMWUT/UbiComp 2022</b> <i>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, Volume 6, Issue 3</i>. <br>
 
 <b>[RFTemp: Monitoring Microwave Oven Leakage to Estimate Food Temperature](https://dl.acm.org/doi/10.1145/3494967)</b><br>
 <b>Avishek Banerjee</b>, Kannan Srinivasan <br>
-<b>IMWUT 2021</b> <i>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, Volume 5, Issue 4</i>. <br>
+<b>IMWUT/UbiComp 2021</b> <i>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, Volume 5, Issue 4</i>. <br>
 
 
 ## Patents
