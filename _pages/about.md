@@ -26,7 +26,8 @@ Feel free to check out my [CV](https://avishek3.github.io/cv/) to learn more abo
 - <ins>Portable D2D Communication</ins> [ **Award** ]
 
 ## Services
-- Sensys 2024 PC Artifact Evaluation (selected)
+- EuroSys 2025 Shadow PC
+- Sensys 2024 PC Artifact Evaluation
 - Reviewer IEEE LANMAN 2024
 - Reviewer IEEE ICECCME 2024
 - Reviewer IEEE ICECET 2023,2024
