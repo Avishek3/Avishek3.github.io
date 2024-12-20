@@ -50,6 +50,15 @@ Patent filed <br>
 <b>Avishek Banerjee</b>, Marja Pauliina Salmimaa. <br>
 Patent filed <br>
 
+<b>RF Blockage Predictor </b><br>
+<b>Avishek Banerjee</b>, Nirupama Ravi. <br>
+Patent under filing <br>
+
+<b>Pipe Agnostic Vibration Based Water Flow Measurement (VIBER) </b><br>
+<b>Avishek Banerjee</b>, Sahil Tikale, Nirupama Ravi, Ziyi Huang <br>
+Patent under filing <br>
+
+
 ## News Article
 <b>[Nutrient-measuring device could make microwaves that count calories](https://www.newscientist.com/article/2341252-nutrient-measuring-device-could-make-microwaves-that-count-calories/)</b><br>
 Interviewed and research covered by [New Scientist Magazine](https://www.newscientist.com)
