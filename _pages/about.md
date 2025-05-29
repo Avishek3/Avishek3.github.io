@@ -26,11 +26,15 @@ Feel free to check out my [CV](https://avishek3.github.io/cv/) to learn more abo
 - <ins>Portable D2D Communication</ins> [ **Award** ]
 
 ## Services
+
+- Shadow PC ACM IMC 2025
+- Reviewer ACDSA 2025 
 - EuroSys 2025 Shadow PC
 - Sensys 2024 PC Artifact Evaluation
-- Reviewer IEEE LANMAN 2024
+- Reviewer IEEE LANMAN 2025,2024
 - Reviewer IEEE ICECCME 2024
-- Reviewer IEEE ICECET 2023,2024
+- Reviewer IEEE ICECER 2024
+- Reviewer IEEE ICECET 2025,2023
 
 ## Honors and Activities
 
